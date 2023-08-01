@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Draftfools. Coming Soon. (From Endpoint LLC. Merging health care with sports gambling)
         </p>
         <a
           className="App-link"

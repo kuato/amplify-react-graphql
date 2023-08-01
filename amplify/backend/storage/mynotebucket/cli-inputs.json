@@ -1,0 +1,14 @@
+{
+  "resourceName": "mynotebucket",
+  "policyUUID": "57aaabd4",
+  "bucketName": "amplifyreactgraphql383dce693c30489caf0672e39dca",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
